@@ -1,0 +1,8 @@
+parameter file should include
+
+model time period
+spin up time period
+shelf name (for getting shelf averages climate data)
+initial firn thickness
+firn bottom temperature (ice temerature or ocean temperature)
+
